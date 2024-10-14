@@ -1,5 +1,7 @@
 # KeySecurity Portfolio
 
+![Intro](./imgs/intro.png)
+
 ## Contacts
 
 For audit inquiries, reach out to us at:
@@ -24,5 +26,6 @@ For audit inquiries, reach out to us at:
 12. Cookie3 - Airdrop & Swapper
 13. LO-FI PEPE - NFT & Staking
 14. [DayHub - Auction](./reports/DayHub-FairLaunch-Security-Review.pdf)
-15. Undisclosed
+15. GamblingDAO - GameFi
 16. Undisclosed
+17. Undisclosed
