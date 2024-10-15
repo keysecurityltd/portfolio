@@ -23,7 +23,7 @@
 11. Paytr
 12. [Cookie3 - Airdrop & Swapper](./reports/Cookie3-Security-Review.pdf)
 13. LO-FI PEPE - NFT & Staking
-14. [DayHub](./reports/DayHub-FairLaunch-Security-Review.pdf)
+14. DayHub
 15. GamblingDAO - GameFi
 16. Undisclosed
 17. Undisclosed
